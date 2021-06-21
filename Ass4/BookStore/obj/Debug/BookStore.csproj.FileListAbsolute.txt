@@ -1,0 +1,13 @@
+D:\CN5\PRN292\Projects\Ass4\BookStore\bin\Debug\BookStore.exe.config
+D:\CN5\PRN292\Projects\Ass4\BookStore\bin\Debug\BookStore.exe
+D:\CN5\PRN292\Projects\Ass4\BookStore\bin\Debug\BookStore.pdb
+D:\CN5\PRN292\Projects\Ass4\BookStore\obj\Debug\BookStore.fmLogin.resources
+D:\CN5\PRN292\Projects\Ass4\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+D:\CN5\PRN292\Projects\Ass4\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+D:\CN5\PRN292\Projects\Ass4\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\CN5\PRN292\Projects\Ass4\BookStore\obj\Debug\BookStore.exe
+D:\CN5\PRN292\Projects\Ass4\BookStore\obj\Debug\BookStore.pdb
+D:\CN5\PRN292\Projects\Ass4\BookStore\obj\Debug\BookStore.fmChangeAccount.resources
+D:\CN5\PRN292\Projects\Ass4\BookStore\obj\Debug\BookStore.fmMaintainBooks.resources
+D:\CN5\PRN292\Projects\Ass4\BookStore\obj\Debug\BookStore.fmReport.resources
+D:\CN5\PRN292\Projects\Ass4\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
